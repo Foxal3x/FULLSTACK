@@ -1,5 +1,3 @@
-import Note from './components/Note'
-
 const App = ({ notes }) => {
   return (
     <div>
