@@ -1,4 +1,4 @@
-import Note from './components/Note'
+import Note from './components/ote'
 
 const App = ({ notes }) => {
   return (
